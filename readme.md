@@ -7,8 +7,4 @@ Para o jogo iniciar, deve ler um txt com o nome do jogador (para testar se o ido
 O software conta com um sistema de seleção de dificuldade das atividades.
 
 Alunos: 
-Alexsander Abreu Martins
-Emanuelly Oliveira Fernandes
-Antonio Marcos Silva de Oliveira
 João Gabriel Diniz de Oliveira
-Samuel Moura de Abreu Machado

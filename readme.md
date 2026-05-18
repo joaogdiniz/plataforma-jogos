@@ -4,6 +4,8 @@ Eles querem que o programa se lembre das tarefas/pontuações que cada usuário 
 
 Para o jogo iniciar, deve ler um txt com o nome do jogador (para testar se o idoso sabe escrever em txt)
 
+O software conta com um sistema de seleção de dificuldade das atividades.
+
 Alunos: 
 Alexsander Abreu Martins
 Emanuelly Oliveira Fernandes

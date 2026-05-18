@@ -167,6 +167,18 @@ def iniciar_programa():
         text="Escolha uma atividade"
     ).pack(pady=10)
 
+    Label(
+        janela_principal,
+        text="Dificuldade:"
+    ).pack(pady=(5,0))
+
+    variavel_dificuldade = StringVar(janela_principal)
+    variavel_dificuldade.set("Não selecionado")
+
+    opcoes = ["Não selecionado", "Fácil", "Médio", "Difícil"]
+
+    OptionMenu(janela_principal, variavel_dificuldade,*opcoes).pack(pady=5)
+
     texto_pontos = Label(
         janela_principal,
         text=f"Pontuação: {pontuacao}"

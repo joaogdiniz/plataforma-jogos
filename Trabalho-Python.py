@@ -196,7 +196,7 @@ def iniciar_programa():
 
     Button(
         janela_principal,
-        text="Fechar",
+        text="Sair",
         width=22,
         command=janela_principal.destroy
     ).pack(pady=15)
